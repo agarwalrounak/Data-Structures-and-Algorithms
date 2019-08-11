@@ -12,3 +12,6 @@ sum of all elements in range [2, 7] is 25
 #### Resources:  
 - https://www.hackerearth.com/practice/notes/binary-indexed-tree-or-fenwick-tree/  
 - https://www.topcoder.com/community/competitive-programming/tutorials/binary-indexed-trees/
+
+#### Practice Problems:
+ - https://practice.geeksforgeeks.org/problems/count-smaller-elements/0
